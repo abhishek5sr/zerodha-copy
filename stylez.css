@@ -1,0 +1,88 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+    
+}
+.navbar{
+    background-color:#ffffff;
+    height: 70px;
+    display: flex;
+    justify-content:space-around;
+    color:#71797E;
+    font-size:1.1rem; 
+    border-bottom: 1px solid #f6f6f6;
+    position: fixed;
+    top:0;
+    width: 100%;
+}
+.nav-logo{
+    padding-top: 20px;
+
+}
+
+.nav{
+    display: flex;
+    
+
+}
+.navlinks{
+    padding: 20px;
+}
+.navlinks:hover{
+    cursor: pointer;
+    color:#387ed1 ;
+}
+.landing-page{
+    margin-top: 120px;
+    margin-left: 360px;
+}
+.writeup-view1{
+    margin-top: 60px;
+    margin-left:540px;
+    font-size:1.7rem;
+    color:#424242;
+}
+.writeup-view2{
+    margin-left:350px;
+    margin-top: 15px;
+    font-size:1.5rem;
+}
+.signin-button{
+    padding:35px 0  0 650px;
+    
+}
+button{
+    padding:15px 30px 15px 30px;
+  background-color: #387ed1;
+  border: #387ed1;
+  border-radius: .2rem;
+  color: #ffffff;
+    font-size: 1.2rem;
+    
+}
+button:hover{
+    background-color: black;
+    cursor: pointer;
+}
+
+#one{
+    margin:100px 220px 0 220px;
+    display: flex;
+}
+.a1{
+    color:#424242 ;
+    font-size: 1.4rem;
+
+}
+.a2{
+    font-size: 1.1rem;
+    color: #71797E;
+    word-spacing: 3px;
+    line-height: 1.5;
+}
+h2{
+padding-top: 40px;
+font-size: 1.4rem;
+color:#424242;
+}
+
